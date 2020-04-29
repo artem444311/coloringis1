@@ -8,5 +8,6 @@
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Indexing" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Render error panel notifications" />
   </component>
 </application>
